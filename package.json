@@ -1,0 +1,19 @@
+{
+  "name": "typescript-utilities",
+  "version": "1.0.0",
+  "description": "🧰 Essential TS utilities for smooth development! Simplify coding life with handy functions. 🔧💻",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^8.18.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
