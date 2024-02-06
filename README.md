@@ -23,6 +23,10 @@ You can also customize the logger by providing custom options.
 
 ### How to use
   - Copy the `logger.ts` file to your project.
+  - Install the required packages.
+  ```bash
+  npm install pino
+  ```
   - Import the logger in your file.
   - Use the logger to log messages.
   ```typescript
